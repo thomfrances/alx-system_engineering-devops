@@ -1,2 +1,2 @@
 #!/bin/bash
-su -l iam_betty
+su betty
